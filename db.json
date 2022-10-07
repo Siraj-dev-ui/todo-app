@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "name": "siraj",
+      "age": "55",
+      "id": 1
+    },
+    {
+      "name": "ali",
+      "age": "44",
+      "id": 2
+    },
+    {
+      "name": "ahmed",
+      "age": "44",
+      "id": 3
+    },
+    {
+      "name": "siraj",
+      "age": "55",
+      "id": 4
+    }
+  ]
+}
